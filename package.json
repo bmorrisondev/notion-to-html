@@ -1,0 +1,23 @@
+{
+  "name": "@brianmmdev/notion-to-html",
+  "version": "0.0.4",
+  "description": "A simple library that converts Notion pages to HTML.",
+  "main": "main.js",
+  "repository": {
+    "url": "https://github.com/bmorrisondev/notion-to-html.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notion",
+    "notion api",
+    "notion html",
+    "notion cms"
+  ],
+  "author": "Brian Morrison II <brian@brianmorrison.me> (https://brianmorrison.me)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
